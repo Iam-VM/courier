@@ -1,0 +1,11 @@
+{
+  "name": "courier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "Vishnu Mohanan <iamvm.dev@gmail.com>",
+  "license": "GPL-3.0"
+}
